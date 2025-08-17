@@ -1,4 +1,4 @@
-# Third-Person-Character-Utility-Mixamo-Manequin-Man
+# GODOT-Third-Person-Character-Utility-Mixamo-Manequin-Man
 
 This utility consists of a ready to used third-person character with movement, camera and animations
 
